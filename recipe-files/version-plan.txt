@@ -1,0 +1,28 @@
+Recipe website style Plan
+
+Format for home page
+    >add font family
+    +add background
+        find free image (wood or stone, light color)
+        stretch over entire page, 
+            repeating as page grows
+    =add buttons to links
+        button responds to mouse hover
+        button changes shape/position like bubble when pressed
+        circle shaped photo next to name (within the button?)
+    >format heading 
+        centered 
+
+Format for recipe pages
+    >same font family
+    +resize image to medium circle
+    place image to left of recipe name as in button 
+    +add space at bottom
+    >add background color
+    =add style to recipe sections
+        add some border around section headings with shadow 
+
+Versions:
+1>
+2+
+3=
