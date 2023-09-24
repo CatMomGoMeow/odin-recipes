@@ -1,8 +1,11 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
 
 #homepage {
     text-align: center;
+}
+
+.last-entry{
+    padding-bottom: 5em;
 }
