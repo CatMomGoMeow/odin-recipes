@@ -3,6 +3,7 @@ Recipe website style Plan
 Format for home page
     >add font family
     +add background
+        same background color in case image does not load
         find free image (wood or stone, light color)
         stretch over entire page, 
             repeating as page grows
