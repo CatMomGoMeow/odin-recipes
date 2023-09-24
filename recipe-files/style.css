@@ -9,3 +9,11 @@ body {
 .last-entry{
     padding-bottom: 5em;
 }
+
+.recipe-photo {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+    /* image too large, still need to resize */
+}

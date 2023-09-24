@@ -1,12 +1,11 @@
 Recipe website style Plan
 
-Format for home page
-    
-    +add background
-        
+Format for home page 
+    +add background 
         find free image (wood or stone, light color)
         stretch over entire page, 
             repeating as page grows
+
     =add buttons to links
         button responds to mouse hover
         button changes shape/position like bubble when pressed
@@ -14,10 +13,8 @@ Format for home page
 
 
 Format for recipe pages
-
     +resize image to medium circle
     place image to left of recipe name as in button 
-    +add space at bottom
 
     =add style to recipe sections
         add some border around section headings with shadow 
@@ -34,4 +31,6 @@ DONE>   format heading
         centered 
 
 2+
+DONE+add space at bottom
+
 3=
