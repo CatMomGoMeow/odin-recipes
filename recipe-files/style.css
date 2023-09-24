@@ -1,4 +1,8 @@
 body {
-    background-color: rgba(156, 182, 182, 0.3) ;
-    font-family: 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#homepage {
+    text-align: center;
 }
