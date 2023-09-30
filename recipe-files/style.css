@@ -33,7 +33,16 @@ body {
 }
 
 #homepage {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #b1bfca;
+}
+
+.header {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* for vertical alignment */
 }
 
 .last-entry{
