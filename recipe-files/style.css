@@ -4,26 +4,37 @@
     box-sizing: border-box;
 }
 
-
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* followed internetingishard flexbox tutorial */
+.menu-bar {
+    display: flex;
+    justify-content: center;
+    background-color: #618bc1;
+    color:#fff;
+    padding: 20px 0;
+}
+
+.menu-text {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+}
+
+.web-links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sign-up {
+    margin-left: 20px;
 }
 
 #homepage {
     text-align: center;
 }
-
-.menu-bar {
-    color:#fff;
-    background-color: #618bc1;
-    padding: 20px 0;
-    border: 1px solid black; /* temp for debugging */
-}
-
-.menu-bar div {/* temp for debugging */
-    border: 3px solid rgb(53, 213, 128);
-}
-
 
 .last-entry{
     padding-bottom: 5em;
