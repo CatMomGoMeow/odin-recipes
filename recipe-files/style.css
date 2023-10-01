@@ -46,6 +46,29 @@ body {
     align-items: center; /* for vertical alignment */
 }
 
+.links-container {
+    display: flex;
+    justify-content: center;
+    border: 2px solid blue; /* for styling temp */
+}
+
+.links {
+    border: 1px dashed rgb(255, 0, 230);
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* not working because ul items are BLOCK, removed list and changed to generic div */
+}
+
+/* could not set width because a are INLINE, changed to div*/
+.links div {
+    border: 3px solid green;
+    width: 200px;
+    height: 200px;
+}
+
 .last-entry{
     padding-bottom: 5em;
 }
