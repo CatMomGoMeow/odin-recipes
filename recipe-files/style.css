@@ -32,7 +32,7 @@ body {
     margin-left: 20px;
 }
 
-#homepage {
+#homepage { /* outer box */
     display: flex;
     justify-content: center;
     background-color: #b1bfca;
@@ -40,6 +40,7 @@ body {
 
 .header {
     width: 900px;
+    height: 300px;
     display: flex;
     justify-content: space-between;
     align-items: center; /* for vertical alignment */
